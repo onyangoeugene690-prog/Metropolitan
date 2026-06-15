@@ -1,3 +1,9 @@
+.page-wrapper{
+    width: 1251px;
+    height: 720px;
+    margin: 0 auto;
+    overflow: visible;
+}
 /* Core Structural Tokens */
 :root {
     --bg-primary-color: #0a0f1d;
